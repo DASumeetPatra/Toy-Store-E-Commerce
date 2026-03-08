@@ -166,7 +166,7 @@ Used to analyze trends in revenue and refunds over time.
 ### Revenue Insights
 
 * Total revenue generated during the analysis period was **$ 1,938,509.75**.
-* The **The Original Mr. Fuzzy** generated approximately **$ 1211057.74 in revenue**, contributing about **62.47%% of total sales**.
+* **The Original Mr. Fuzzy** generated approximately **$ 1211057.74 in revenue**, contributing about **62.47% of total sales**.
 * Highest monthly revenue recorded in **December 2014 at $144823.02**.
 
 ---
@@ -181,7 +181,7 @@ Used to analyze trends in revenue and refunds over time.
 ### Operational Insights
 
 * Total revenue lost due to refunds was approximately **$85,338.69**.
-* The **highest refund month(2014-September) recorded $11773.63 in refunded transactions**.
+* The **highest refund month(September 2014) recorded $11773.63 in refunded transactions**.
 
 ---
 
