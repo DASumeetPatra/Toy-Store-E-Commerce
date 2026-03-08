@@ -165,23 +165,37 @@ Used to analyze trends in revenue and refunds over time.
 
 ### Revenue Insights
 
-* A small segment of customers contributes a significant share of overall revenue.
-* Certain products consistently drive the majority of sales.
+* Total revenue generated during the analysis period was **$ 1,938,509.75**.
+* The **The Original Mr. Fuzzy** generated approximately **$ 1211057.74 in revenue**, contributing about **62.47%% of total sales**.
+* Highest monthly revenue recorded in **December 2014 at $144823.02**.
 
-### Customer Insights
+---
 
-* Repeat customers generate higher lifetime value than one-time buyers.
-* Some customers show declining spending patterns that may indicate churn risk.
+### Customer Behavior Insights
 
-### Marketing Insights
+* The **highest spending customer(user_id - 281298) generated $219.96 in total revenue**.
+* Some customers showed **declining monthly spending trends**, which may indicate potential churn risk.
 
-* Some traffic sources generate high website traffic but lower conversion rates.
-* Device type influences purchasing behavior.
+---
 
 ### Operational Insights
 
-* Refund trends vary across time periods and impact revenue.
-* Monitoring refunds helps detect potential operational issues.
+* Total revenue lost due to refunds was approximately **$85,338.69**.
+* The **highest refund month(2014-September) recorded $11773.63 in refunded transactions**.
+
+---
+
+### Business Impact
+
+These insights help businesses understand:
+
+* Which products generate the most revenue
+* Which marketing channels drive profitable traffic
+* Customer purchasing behavior and retention patterns
+* Operational risks such as refunds impacting revenue
+
+This information can help decision-makers improve **marketing strategies, customer retention efforts, and product performance monitoring**.
+
 
 ---
 
